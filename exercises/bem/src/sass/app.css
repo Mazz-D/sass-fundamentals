@@ -1,8 +1,6 @@
-body {
-  h1 {
-    color: #c69;
-    font-style: 30px;
-  }
+body h1 {
+  color: #c69;
+  font-style: 30px;
 }
 
 .btn {
@@ -12,3 +10,4 @@ body {
   line-height: 20px;
   border-radius: 2px;
 }
+/*# sourceMappingURL=app.css.map */
